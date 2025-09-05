@@ -263,7 +263,7 @@
 
    }
    footer h6{
-    color: white;
+    color: black;
     font-size: 24px;
     margin-bottom: 20px;
    }
@@ -311,12 +311,12 @@
   
 
         footer p {
-            color: #bbb;
+            color: #555;
             font-size: 19px;
             margin-bottom: 15px;
         }
    .footer-links a {
-       color: #bbb;
+       color: #555;
        font-size: 19px;
        margin-bottom: 12px;
        display: block;
@@ -325,7 +325,7 @@
    }
 
    .footer-links a:hover {
-       color: white;
+       color: black;
    }
 
    .copyright {
