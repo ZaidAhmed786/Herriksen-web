@@ -11,6 +11,24 @@
      color: #ff4d4d;
      margin-right: 6px;
  }
+  .seal-fixed {
+      position: fixed;
+      bottom: 15px;
+      right: 15px;
+      
+      height: auto;
+      z-index: 9999;
+      cursor: pointer;
+    }
+
+    .seal-fixed img {
+      width: 180px;
+      transition: transform 0.3s ease;
+    }
+
+    .seal-fixed img:hover {
+      transform: scale(1.05);
+    }
 
  /* Logo */
  .logo {
