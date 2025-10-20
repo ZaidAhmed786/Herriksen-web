@@ -300,9 +300,11 @@
    }
 
    .price h3 {
+        
        font-size: 1.5rem;
+       font-weight: bold;
        margin-bottom: 15px;
-       color: #333;
+       color: #ff3b3b;
    }
    .price a {
        font-size: 1.3;
