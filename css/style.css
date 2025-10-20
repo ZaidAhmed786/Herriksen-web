@@ -286,7 +286,7 @@
     margin-bottom: 20px;
    }
    .price {
-       background: #fff;
+       background: #dbdbdb;
        border-radius: 12px;
        padding: 25px;
        margin-bottom: 30px;
@@ -329,12 +329,12 @@
   
 
         footer p {
-            color: #555;
+            color: #b7b7b7;
             font-size: 19px;
             margin-bottom: 15px;
         }
    .footer-links a {
-       color: #555;
+       color: #b7b7b7;
        font-size: 19px;
        margin-bottom: 12px;
        display: block;
@@ -343,7 +343,7 @@
    }
 
    .footer-links a:hover {
-       color: black;
+       color: white;
    }
 
    .copyright {
