@@ -203,6 +203,18 @@
   .service-card .content {
       padding: 20px 0px;
   }
+  .price-upload-btn {
+  background-color: #b72a2a;
+  color: white;
+  padding: 10px 40px;
+  font-size: 20px;
+  border: none;
+  border-radius: 5px;
+}
+
+.price-upload-btn:hover {
+  background-color: #8d1f1f;
+}
 
   .service-card h3 {
       font-size: 20px;
