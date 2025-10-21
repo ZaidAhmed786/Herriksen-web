@@ -222,7 +222,12 @@
         <h3>PRICING FOR RESIDENTIAL & COMMERCIAL ESTIMATES</h3>
         <p>Our rates depend upon the scope and size of the project.</p>
         <p>Upload plans in the below button, we will review and quote in a minute.</p>
-        <div class="text-center"><button class="price-upload-btn  ">Upload Plans</button></div>
+        <div class="text-center">
+  <input type="file" id="fileInput" style="display: none;" multiple />
+  <button class="price-upload-btn" onclick="document.getElementById('fileInput').click()">Upload Plans</button>
+
+  <div id="previewArea" style="margin-top: 20px;"></div>
+</div>
     </div>
 
     <!-- Industrial -->
